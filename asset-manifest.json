@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-shop-udemy/static/css/main.c881246d.css",
-    "main.js": "/react-shop-udemy/static/js/main.5d1a073e.js",
+    "main.js": "/react-shop-udemy/static/js/main.766ab320.js",
     "index.html": "/react-shop-udemy/index.html",
     "main.c881246d.css.map": "/react-shop-udemy/static/css/main.c881246d.css.map",
-    "main.5d1a073e.js.map": "/react-shop-udemy/static/js/main.5d1a073e.js.map"
+    "main.766ab320.js.map": "/react-shop-udemy/static/js/main.766ab320.js.map"
   },
   "entrypoints": [
     "static/css/main.c881246d.css",
-    "static/js/main.5d1a073e.js"
+    "static/js/main.766ab320.js"
   ]
 }
